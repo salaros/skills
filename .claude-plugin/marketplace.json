@@ -1,0 +1,27 @@
+{
+  "name": "Salaros",
+  "owner": {
+    "name": "Yaroslav Zhmayev"
+  },
+  "description": "Small, self-contained Claude Code skills: a TODO.md ledger for loose ends, Product Discovery Documents, and Windows workstation conventions.",
+  "plugins": [
+    {
+      "name": "windows-workstation",
+      "source": "./plugins/windows-workstation",
+      "description": "Windows workstation conventions: WSL2 Bash for shell work, Microsoft Edge as the browser.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "loose-ends",
+      "source": "./plugins/loose-ends",
+      "description": "Keep a TODO.md ledger of open questions, unverified assumptions and deferred work.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "pdd",
+      "source": "./plugins/pdd",
+      "description": "Write a Product Discovery Document that ends in a Go, No-go or Parked verdict.",
+      "version": "1.0.0"
+    }
+  ]
+}

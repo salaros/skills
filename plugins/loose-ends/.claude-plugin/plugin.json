@@ -1,0 +1,8 @@
+{
+  "name": "loose-ends",
+  "description": "Keep a TODO.md ledger of open questions, unverified assumptions and deferred work, in todo-md format.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Yaroslav Zhmayev"
+  }
+}

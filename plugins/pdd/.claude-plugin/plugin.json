@@ -1,0 +1,8 @@
+{
+  "name": "pdd",
+  "description": "Write a Product Discovery Document: an opportunity assessment that ends in a Go, No-go or Parked verdict.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Yaroslav Zhmayev"
+  }
+}
